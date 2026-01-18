@@ -5,8 +5,7 @@ KrushiMitra AI is a multilingual AI-powered agricultural assistant built using S
 
 🚀 Live Demo
 
-(Add your deployment link here if hosted)
-Example: https://your-app-name.streamlit.app
+Link: https://krushimitra-ai.streamlit.app/
 
 🎯 Problem Statement
 
