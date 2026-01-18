@@ -1,0 +1,8 @@
+streamlit
+google-generativeai
+faiss-cpu
+numpy
+gtts
+sentence-transformers
+streamlit-mic-recorder
+Pillow
