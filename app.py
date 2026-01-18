@@ -76,7 +76,7 @@ if not os.path.exists(DATA_DIR):
         f.write("Organic farming uses natural compost. Drip irrigation saves 50% water. Pests like aphids can be controlled with neem oil.")
 
 # Model Setup
-genai.configure(api_key="plaace your API KEY")
+genai.configure(api_key="AIzaSyBPP-ECKjUEh0UHox9tsIzhUEfN57Eb8uo")
 gemini_model = genai.GenerativeModel("gemini-3-flash-preview")
 
 @st.cache_resource
@@ -210,3 +210,4 @@ if st.session_state.pending_query:
 st.markdown("---")
 
 st.markdown('<div style="text-align:center; color:#64748b; font-size:0.8rem;">Modern Multilingual Agri-Support • 2026</div>', unsafe_allow_html=True)
+
